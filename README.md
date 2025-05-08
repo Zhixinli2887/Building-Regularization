@@ -10,6 +10,14 @@ This repository contains a Python-based application for regularizing building bo
 - **Batch Processing**: Process multiple polygons in groups or separately.
 - **Export Results**: Save the regularized polygons as a new shapefile.
 
+## Application UI
+
+![APP](https://github.com/user-attachments/assets/9a0ca092-65c6-433a-a901-8c43fa6f5d6b)
+
+## Regularized Building Boundaries
+
+![Picture2](https://github.com/user-attachments/assets/1ba9395a-84b6-4ded-97b6-4025361a06ee)
+
 ## Requirements
 
 - Python 3.8 or higher
